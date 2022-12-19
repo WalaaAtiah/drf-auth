@@ -96,7 +96,6 @@
    
    `http://127.0.0.1:8000/api/v1/movis/`
 
-  <img src="image/admin1.png" alt="drawing" style="width:600px;"/>
 
 
 
