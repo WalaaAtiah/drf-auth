@@ -102,4 +102,4 @@
 
 
 
-## [pull requests](https://github.com/WalaaAtiah/drf-api-permissions-postgres/pull/1)
+## [pull requests](https://github.com/WalaaAtiah/drf-auth/pull/1)
